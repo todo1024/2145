@@ -1,2 +1,667 @@
 # 2145
 大数据零基础入门高薪就业教程 | 完结
+### 微:NoBug1024 
+
+
+课程介绍：
+
+大数据(big data)，或称巨量资料，指的是所涉及的资料量规模巨大到无法透过主流软件工具，在合理时间内达到撷取、管理、处理、并整理成为帮助企业经营决策更积极目的的资讯。
+
+〖课程目录〗:
+
+- ├──01-大数据Java基础  
+- |   ├──java第01天  
+- |   |   ├──java第01天-01.类型转换.avi  90.87M
+- |   |   ├──java第01天-02.归档分析与实现.avi  119.05M
+- |   |   ├──java第01天-03.解档程序.avi  62.98M
+- |   |   ├──java第01天-04.使用zipOuputStream压缩文件流.avi  34.82M
+- |   |   ├──java第01天-05.使用zipInputStream使用解压缩.avi  101.62M
+- |   |   ├──java第01天-06.多线程同步问题.avi  63.38M
+- |   |   ├──java第01天-07.多线程同步问题-线程死锁.avi  162.65M
+- |   |   ├──java第01天-08.集合-ArrayList-linkedList.avi  42.37M
+- |   |   ├──java第01天-09.IDE-eclipse环境处理.avi  13.12M
+- |   |   └──资料.zip  93.26kb
+- |   ├──java第02天  
+- |   |   ├──java第02天-01.多线程和尚馒头问题.avi  206.83M
+- |   |   ├──java第02天-02.hashcode原理-hashmap-hashset.avi  205.50M
+- |   |   ├──java第02天-03.arrayList-linkedList-equals-hashcode.avi  71.49M
+- |   |   ├──java第02天-04.jvm栈溢出.avi  27.37M
+- |   |   ├──java第02天-05.jvm内部结构-jvisualvm使用.avi  75.48M
+- |   |   ├──java第02天-06.jvm内部结构-jconsole-jvm虚拟机调参.avi  125.88M
+- |   |   ├──java第02天-07.jvm classloader类加载过程.avi  42.84M
+- |   |   ├──java第02天-08.tcp-ip-OSI七层协议-三次握手.avi  96.26M
+- |   |   └──资料.zip  7.98M
+- |   ├──java第03天  
+- |   |   ├──java第03天-01.udp发送和接受.avi  65.60M
+- |   |   ├──java第03天-02.屏广过程分析.avi  39.03M
+- |   |   ├──java第03天-03.屏广过程分析-教师端程序.avi  145.69M
+- |   |   ├──java第03天-04.屏广过程分析-学生端接受程序分析和实现.avi  123.21M
+- |   |   ├──java第03天-05.屏广-学生端UI实现-测试通过.avi  137.95M
+- |   |   ├──java第03天-05.屏广-学生端UI实现-增加压缩机制.avi  166.83M
+- |   |   ├──java第03天-06.QQ通信-分析程序.avi  65.89M
+- |   |   ├──java第03天-07.QQ通信-消息实现-消息工厂-消息类-消息解析-消息转换.avi  172.35M
+- |   |   ├──java第03天-08.QQ通信-消息转换-解析2.avi  313.20M
+- |   |   └──资料.zip  289.03kb
+- |   ├──java第04天  
+- |   |   ├──java第04天-01.客户端解析服务器消息.avi  53.98M
+- |   |   ├──java第04天-02.客户端消息转换-流基础.avi  97.90M
+- |   |   ├──java第04天-03.客户端消息通信-退出刷新.avi  231.77M
+- |   |   ├──java第04天-04.私聊窗口实现-刷新好友列表.avi  79.75M
+- |   |   └──资料.zip  63.28kb
+- |   └──java第05天  
+- |   |   ├──java第05天-01.设计模式-oop部分.avi  117.90M
+- |   |   ├──java第05天-02.OOP-2.avi  48.57M
+- |   |   ├──java第05天-03.NIO-ByteBuffer-FileChannel.avi  123.13M
+- |   |   ├──java第05天-04.NIO-MappedFileBuffer-离堆内存.avi  59.64M
+- |   |   ├──java第05天-05.NIO-离堆内存回收.avi  98.35M
+- |   |   ├──java第05天-06.NIO-ServerSocketChannel-Selector-SocketChannel.avi  142.82M
+- |   |   ├──java第05天-07.NIO-SocketChannel.avi  140.39M
+- |   |   ├──java第05天-08.JDK动态代理.avi  112.42M
+- |   |   └──资料.zip  473.52kb
+- ├──02-大数据Linux基础  
+- |   ├──Linux基础第01天  
+- |   |   ├──Hadoop  
+- |   |   ├──Linux第01天-01..vmware安装-centos安装.avi  102.24M
+- |   |   ├──Linux第01天-02..CentOS基本命令.avi  143.92M
+- |   |   └──Linux基础第01天.rar  7.08M
+- |   ├──Linux基础第02天  
+- |   |   ├──Linux基础第02天-01.centos命令基础.avi  167.40M
+- |   |   ├──Linux基础第02天-02.centos命令-文件类型-权限.avi  87.94M
+- |   |   ├──Linux基础第02天-03.centos网络连接模式-虚拟网络编辑.avi  212.24M
+- |   |   ├──Linux基础第02天-04.centos网路配置-域名解析-光驱挂载.avi  131.22M
+- |   |   ├──Linux基础第02天-05.centos虚拟机增强工具的安装-文本模式的安装.avi  148.84M
+- |   |   ├──Linux基础第02天.rar  90.90kb
+- |   |   ├──笔记.txt  8.93kb
+- |   |   ├──图画.png  90.57kb
+- |   |   └──图画2.png  90.91kb
+- |   ├──Linux基础第03天  
+- |   |   ├──Linux基础第03天-01.符号连接-sudoers.avi  132.18M
+- |   |   ├──Linux基础第03天-02.进程查看-主机名-dirname-basename-磁盘分区.avi  202.43M
+- |   |   ├──Linux基础第03天-03.hostname-hosts-useradd-userdel.avi  97.69M
+- |   |   ├──Linux基础第03天-04.nc.avi  174.51M
+- |   |   ├──Linux基础第03天-05.nc传输文件-centosmin安装.avi  115.19M
+- |   |   └──Linux基础第03天.rar  110.62kb
+- |   └──Linux基础第04天  
+- |   |   ├──Linux第04天-01.CentOS-yum源修改-yum命令.avi  116.12M
+- |   |   ├──Linux第04天-02.CentOS-iso文件制作.avi  78.63M
+- |   |   ├──Linux第04天-03.CentOS-min版虚拟机增强.avi  118.23M
+- |   |   └──Linux基础第04天.rar  104.75kb
+- ├──03-大数据离线计算hadoop2.7开发  
+- |   ├──Hadoop-第01天  
+- |   |   ├──Hadoop第01天-01.大数据介绍.exe  175.94M
+- |   |   ├──Hadoop第01天-02.hadoop介绍-jdk安装.exe  117.30M
+- |   |   ├──Hadoop第01天-03.hadoop安装-配置(独立模式-伪分布).exe  160.65M
+- |   |   ├──Hadoop第01天课上资料.rar  119.51M
+- |   |   └──jdk-8u65-linux-x64.tar（文件多解压报错属于正常现象）.gz  172.86M
+- |   ├──Hadoop-第02天  
+- |   |   ├──Hadoop第02天-01.伪分布式启动-fs格式化-webui.exe  67.76M
+- |   |   ├──Hadoop第02天-02.完全分布式-准备工作-虚拟机克隆.exe  70.49M
+- |   |   ├──Hadoop第02天-03.完全分布式-搭建.exe  141.87M
+- |   |   ├──Hadoop第02天-04.完全分布式-调错2.exe  755.33M
+- |   |   ├──Hadoop第02天-05.完全分布式-编写脚本-xcall-xsync.exe  138.48M
+- |   |   └──Hadoop第02天.rar  36.46kb
+- |   ├──Hadoop-第03天  
+- |   |   ├──Hadoop第03天-01.脚本分析-单个进程启动.avi  186.65M
+- |   |   ├──Hadoop第03天-02.hdfs常用操作.avi  42.18M
+- |   |   ├──Hadoop第03天-03.hadoop基础-hdfs-block.avi  171.54M
+- |   |   ├──Hadoop第03天-04.hadoop API-网络拓扑.avi  503.38M
+- |   |   └──Hadoop第03天.rar  163.79kb
+- |   ├──hadoop-第04天  
+- |   |   ├──hadoop-第04天.rar  12.48kb
+- |   |   ├──Hadoop第04天-01.maven搭建.avi  31.29M
+- |   |   ├──Hadoop第04天-02.maven-idea.avi  31.54M
+- |   |   ├──Hadoop第04天-03.maven-idea-创建项目-模块.avi  66.21M
+- |   |   ├──Hadoop第04天-04.idea-快捷键设置-项目调整-maven设置.avi  20.80M
+- |   |   ├──Hadoop第04天-05.hadoop最小块设置-指定副本数.avi  317.94M
+- |   |   ├──Hadoop第04天-06.hadoop滚动日志-安全模式-保存名称空间.avi  120.72M
+- |   |   ├──Hadoop第04天-07.配额管理-空间配合-目录配额.avi  43.19M
+- |   |   ├──Hadoop第04天-08.快照管理-删除-创建-重命名-启用-禁用.avi  47.26M
+- |   |   ├──Hadoop第04天-09.节点的服役和退役.avi  131.13M
+- |   |   └──Hadoop第04天-10.rose建模-虚拟光驱安装.avi  89.36M
+- |   ├──hadoop-第05天  
+- |   |   ├──hadoop-第05天.rar  21.95kb
+- |   |   ├──Hadoop第05天-01-hdfs写入剖析.avi  166.26M
+- |   |   ├──Hadoop第05天-02-hdfs写入剖析2.avi  221.54M
+- |   |   ├──Hadoop第05天-03-2nn融合nn的镜像文件和编辑日志.avi  112.84M
+- |   |   ├──Hadoop第05天-04-MR介绍.avi  31.46M
+- |   |   ├──Hadoop第05天-05-MR编写以及运行原理.avi  131.06M
+- |   |   ├──Hadoop第05天-06-MR原理图剖析.avi  212.42M
+- |   |   └──Hadoop第05天-07-MR集群模式部署-运行.avi  126.79M
+- |   ├──hadoop-第06天  
+- |   |   ├──hadoop-第06天.rar  50.74M
+- |   |   ├──Hadoop第06天-01.Yarn作业提交过程.avi  90.00M
+- |   |   ├──Hadoop第06天-02.job的文件split计算法则.avi  62.68M
+- |   |   ├──Hadoop第06天-03.切片和recorderreader读取法则.avi  109.98M
+- |   |   ├──Hadoop第06天-04.压缩文件.avi  98.97M
+- |   |   ├──Hadoop第06天-05.程序打包-centos运行-远程调试.avi  92.81M
+- |   |   ├──Hadoop第06天-06.5pom中引入antrun插件-远程调试-snappy库centos安装.avi  62.71M
+- |   |   ├──Hadoop第06天-07.LZO压缩编解码配置与测试.avi  58.56M
+- |   |   ├──Hadoop第06天-08.seqfile文件结构-同步点-压缩类型.avi  213.60M
+- |   |   └──Hadoop第06天-09.自定义分区-数据倾斜-combiner类.avi  215.33M
+- |   ├──Hadoop-第07天  
+- |   |   ├──Hadoop-第07天.rar  206.51kb
+- |   |   ├──Hadoop第07天-01.多输入问题.avi  110.33M
+- |   |   ├──Hadoop第07天-02.计数器使用-跟踪运行信息.avi  143.87M
+- |   |   ├──Hadoop第07天-03.hadoop全排序.avi  85.15M
+- |   |   ├──Hadoop第07天-04.hadoop全排序-采样器.avi  146.52M
+- |   |   ├──Hadoop第07天-05.hadoop二次排序-原理-实现.avi  165.85M
+- |   |   └──Hadoop第07天-06.hadoop二次排序-编程实现-年份最高气温值提取.avi  124.75M
+- |   ├──Hadoop-第08天  
+- |   |   ├──Hadoop-第08天.rar  50.56M
+- |   |   ├──Hadoop第08天-01.二次排序-链条化.avi  158.01M
+- |   |   ├──Hadoop第08天-02.数据倾斜-自定义分区-随机分配.avi  126.77M
+- |   |   ├──Hadoop第08天-03.链式处理map和reduce tasks.avi  86.29M
+- |   |   ├──Hadoop第08天-04.DBInputFormat-DBWritable-实现数据库读取内容.avi  191.41M
+- |   |   └──Hadoop第08天-05.DBInputFormat-DBWritable-输出数据到数据库中.avi  179.29M
+- |   ├──Hadoop-第09天  
+- |   |   ├──Hadoop-第09天.rar  166.40kb
+- |   |   ├──Hadoop第09天-01.机架感知.avi  188.89M
+- |   |   ├──Hadoop第09天-02.机架感知实现-配置.avi  78.47M
+- |   |   ├──Hadoop第09天-03.手动移动块数据-HA介绍.avi  96.90M
+- |   |   ├──Hadoop第09天-04.hadoop-ha介绍-配置-原理.avi  135.66M
+- |   |   ├──Hadoop第09天-05.hadoop-ha-配置.avi  167.68M
+- |   |   └──Hadoop第09天-06.hadoop-ha-配置总结.avi  42.59M
+- |   ├──hadoop-第10天  
+- |   |   ├──hadoop-第10天.rar  4.54M
+- |   |   ├──Hadoop第10天-01.mysql-jdbc加强.avi  34.01M
+- |   |   ├──Hadoop第10天-02.mysql-jdbc加强-state-ppst.avi  70.31M
+- |   |   ├──Hadoop第10天-03.mysql-定义存储过程.avi  58.69M
+- |   |   ├──Hadoop第10天-04.jdbc通过callableStatement调用存储过程.avi  15.56M
+- |   |   ├──Hadoop第10天-05.jdbc通过callableStatement实现百万数据插入.avi  25.59M
+- |   |   ├──Hadoop第10天-06.jdbc通过CallableStatement数据库函数.avi  20.86M
+- |   |   ├──Hadoop第10天-07.jdbc事务处理并发现象-脏读-不可重复读-幻读.avi  21.80M
+- |   |   ├──Hadoop第10天-08.mysql并发现象-脏读设置与演示.avi  50.27M
+- |   |   ├──Hadoop第10天-09.mysql并发现象-不可重复设置与演示.avi  33.21M
+- |   |   ├──Hadoop第10天-10.mysql并发现象-serializable-悲观锁-查询时使用forupdate写锁.avi  66.91M
+- |   |   ├──Hadoop第10天-11.java编程展现隔离级别-连接查询处理-内连接-左右外链接-笛卡尔积.avi  89.74M
+- |   |   ├──Hadoop第10天-12.mysql查询语法构成-where-分组-having-orderby-limit.avi  47.15M
+- |   |   └──Hadoop第10天-13.mysql嵌套子查询-分组-having-二次分组.avi  71.59M
+- |   └──hadoop-第11天  
+- |   |   ├──hadoop-第11天.rar  73.16kb
+- |   |   ├──Hadoop第11天-01.Hadoop实现join操作原理分析.avi  43.45M
+- |   |   ├──Hadoop第11天-02.MR Map端连接实现.avi  62.13M
+- |   |   ├──Hadoop第11天-03.MR Reduce端连接实现-组合key-分区类-mapper类.avi  85.36M
+- |   |   └──Hadoop第11天-04.MR Reduce端连接实现-排序对比器-分组对比器-App.avi  32.55M
+- ├──04-大数据数据仓库Hive-2.1  
+- |   ├──Hive第01天  
+- |   |   ├──Hive第01天-01.hive的安装-配置.avi  84.51M
+- |   |   ├──Hive第01天-02.hive基本操作-建库-建表.avi  57.14M
+- |   |   ├──Hive第01天-03.hive中使用hiveserver2和beeline命令采用jdbc协议访问.avi  43.39M
+- |   |   ├──Hive第01天-04.hive中使用API通过jdbc访问数据藏库.avi  15.14M
+- |   |   ├──Hive第01天-05.hive中分区表-添加-删除-加载-查询.avi  160.33M
+- |   |   ├──Hive第01天-06.hive中桶表-实现-操作.avi  122.19M
+- |   |   └──Hive第01天课件资料.rar  195.23M
+- |   ├──Hive第02天  
+- |   |   ├──Hive第02天-01.hive操作-排序.avi  159.81M
+- |   |   ├──Hive第02天-02.hive动态分区-严格模式-非严格模式.avi  66.37M
+- |   |   ├──Hive第02天-03.hive事务处理-聚合.avi  81.80M
+- |   |   ├──Hive第02天-04.hive实现单词统计-嵌套子查询-分组聚合-topN.avi  13.86M
+- |   |   ├──Hive第02天-05.hive实现单词统计-结果存储-事务性表处理.avi  38.42M
+- |   |   ├──Hive第02天-06.hive视图操作.avi  52.42M
+- |   |   ├──Hive第02天-07.hive调优-mr严格模式-map端连接-explain.avi  142.36M
+- |   |   ├──Hive第02天-08.JVM重用-MR数量限制-本地模式.avi  47.36M
+- |   |   ├──Hive第02天-09.HiveUDF函数 .avi  147.87M
+- |   |   ├──Hive第02天-10.HiveUDF函数-注册函数-使用函数 .avi  25.73M
+- |   |   ├──Hive第02天-11.HiveUDF函数-日期时间函数 .avi  108.64M
+- |   |   ├──Hive第02天-12.HiveUDF-使用GenericUDF .avi  89.27M
+- |   |   ├──Hive第02天-13.HiveUDF-GenericUDF-date日期函数 .avi  34.00M
+- |   |   └──Hive第02天.rar  67.10kb
+- |   └──Hive第03天  
+- |   |   └──Hive第03天-01.hive的数据倾斜.avi  94.76M
+- ├──05-大数据序列号Avro和Protobuf  
+- |   └──avro和protobuf  
+- |   |   ├──avro和protobuf.rar  33.24M
+- |   |   ├──avro和protobuf第01天-01.protobuf串行化.avi  144.15M
+- |   |   ├──avro和protobuf第01天-02.protobuf和java对比.avi  61.76M
+- |   |   ├──avro和protobuf第01天-03.avro串行化-编译方式.avi  114.76M
+- |   |   ├──avro和protobuf第01天-04.avro串行化-编译方式-串行-反串行.avi  18.52M
+- |   |   └──avro和protobuf第01天-05.avro串行化-非编译模式.avi  49.08M
+- ├──06-大数据协调服务Zookeeper  
+- |   ├──zookeeper第01天  
+- |   |   ├──ZooKeeper第01天-01.zk介绍-相关概念.exe  91.08M
+- |   |   ├──ZooKeeper第01天-02.zk安装-配置-服务器启动.exe  43.09M
+- |   |   ├──ZooKeeper第01天-03.zk命令操作.exe  64.74M
+- |   |   ├──ZooKeeper第01天-04.zk API访问zk数据.exe  20.06M
+- |   |   ├──ZooKeeper第01天-05.zk递归方式输出zk系统目录.exe  21.58M
+- |   |   ├──ZooKeeper第01天-06.zk观察者模式-编程API使用-监控演示.exe  187.63M
+- |   |   ├──ZooKeeper第01天-07.zk的读写操作过程.exe  44.41M
+- |   |   └──zookeeper第01天.rar  21.66M
+- |   └──zookeeper第02天  
+- |   |   ├──ZooKeeper第02天-01.leader推选法则.avi  79.40M
+- |   |   ├──ZooKeeper第02天-02.zk完全分布式集群配置.avi  24.10M
+- |   |   ├──ZooKeeper第02天-03.HA分布式自动容灾1.avi  101.15M
+- |   |   ├──ZooKeeper第02天-04.HA分布式自动容灾2-配置实现-容灾演示.avi  55.68M
+- |   |   ├──ZooKeeper第02天-05.RM的HA配置.avi  43.84M
+- |   |   └──zookeeper第02天.rar  85.00kb
+- ├──07-大数据数据库HBase-1.2.3  
+- |   ├──hbase-01  
+- |   |   ├──Hbase第01天-01.Hbse介绍.avi  54.26M
+- |   |   ├──Hbase第01天-02.Hbse完全分布式集群搭建.avi  88.06M
+- |   |   ├──Hbase第01天-03..HA集群架构回顾.avi  46.79M
+- |   |   └──Hbase第01天.rar  85.00kb
+- |   ├──hbase-02  
+- |   |   ├──Hbase第02天-01.hbase HA.avi  52.53M
+- |   |   ├──Hbase第02天-02.hbase shell基本操作.avi  95.59M
+- |   |   ├──Hbase第02天-03.hbase API方式实现插入和查询.avi  55.04M
+- |   |   ├──Hbase第02天-04.hbase 架构介绍.avi  117.91M
+- |   |   ├──Hbase第02天-05.hbase写入过程剖析-百万数据插入测试.avi  127.94M
+- |   |   ├──Hbase第02天-06.hbase表和区域的切割.avi  160.93M
+- |   |   ├──Hbase第02天-07.hbase和hadoop HA集成配置.avi  34.37M
+- |   |   ├──Hbase第02天-08.hbase手动移动区域.avi  63.06M
+- |   |   ├──Hbase第02天-09.hbaseAPI访问hbase数据库-crud-scan-动态元数据访问.avi  192.93M
+- |   |   └──hbase第02天.rar  83.19kb
+- |   ├──hbase-03  
+- |   |   ├──Hbase第03天-01.hbase预切割.avi  69.89M
+- |   |   ├──Hbase第03天-02.hbase版本数据-检查时版本数指定.avi  45.33M
+- |   |   ├──Hbase第03天-03.hbase版本TTL-原生扫描-KeepDeleteCells.avi  111.10M
+- |   |   ├──Hbase第03天-04.hbase扫描器缓存-设置-测试.avi  122.33M
+- |   |   ├──Hbase第03天-05.hbase扫描器批处理设置.avi  74.58M
+- |   |   ├──Hbase第03天-06.hbase过滤器-row-family-col-value-dep.avi  107.80M
+- |   |   ├──Hbase第03天-07.hbasePage过滤-复杂查询.avi  179.16M
+- |   |   ├──Hbase第03天-08.hbase计数器.avi  66.13M
+- |   |   ├──Hbase第03天-09.hbase协处理器.avi  188.47M
+- |   |   └──hbase第03天.rar  293.80kb
+- |   └──hbase-04  
+- |   |   ├──Hbase第04天-01.rowkey的设计原则.avi  109.88M
+- |   |   ├──Hbase第04天-02rowkey的设计原则2.avi  60.78M
+- |   |   ├──Hbase第04天-03.rowkey的Calllogs呼叫日志设计实现.avi  79.05M
+- |   |   ├──Hbase第04天-04.CallLog日志数据put和协处理器实现.avi  90.06M
+- |   |   ├──Hbase第04天-05.CallLog实现-测试.avi  145.17M
+- |   |   ├──Hbase第04天-06.CallLog实现-查询通化详单.avi  33.17M
+- |   |   ├──Hbase第04天-07.hbase的布隆过滤器.avi  65.02M
+- |   |   ├──Hbase第04天-08.hbase的phonix.avi  103.71M
+- |   |   ├──Hbase第04天-09.phonix客户端SQuirrel安装.avi  74.43M
+- |   |   ├──Hbase第04天-10.SQuirrel使用-SQL语句-upsert-select-delete.avi  50.09M
+- |   |   └──hbase第04天.rar  51.52M
+- ├──08-大数据日志采集Flume  
+- |   ├──flume.rar  3.07kb
+- |   ├──flume第01天-01.flume日志收集介绍与架构.avi  74.68M
+- |   ├──flume第01天-02.flume-netcat source.avi  83.14M
+- |   ├──flume第01天-03.flume-常用的source-exec-spooldir-seq-netcat.avi  95.63M
+- |   ├──flume第01天-04.flume-hdfs sink.avi  122.03M
+- |   ├──flume第01天-05.flume-hbase sink.avi  10.21M
+- |   ├──flume第01天-06.flume-hdfs round-roller区别.avi  17.82M
+- |   ├──flume第01天-07.flume-avro hop跃点.avi  153.40M
+- |   ├──flume第01天-08.flume-channel-file-memory-spillatable.avi  122.68M
+- |   └──Hbase第05天-01.Hive-Hbase集成,hive.avi  94.19M
+- ├──09-分布式发布订阅消息系统Kafka  
+- |   ├──kafka.rar  30.54M
+- |   ├──kafka第01天-01.JMS简介-kafka.avi  47.22M
+- |   ├──kafka第01天-02.kafka安装.avi  68.50M
+- |   ├──kafka第01天-03.kafka集群配置-启动-验证.avi  18.74M
+- |   ├──kafka第01天-04.kafka生产消费控制台配置演示.avi  21.48M
+- |   ├──kafka第01天-05.kafka分区-部分-再平衡.avi  216.39M
+- |   ├──kafka第01天-06.kafka手动分区再平衡-同步复制-异步复制.avi  122.15M
+- |   ├──kafka第01天-07.通过java API编程实现kafka消息生产者.avi  60.83M
+- |   ├──kafka第01天-08.通过java API编程实现kafka消息消费者.avi  74.40M
+- |   └──kafka第01天-09.flume与kafka集成.avi  135.96M
+- ├──10-大数据实时处理Storm-1.0.3  
+- |   ├──Storm-第01天  
+- |   |   ├──Storm第01天-01.storm.exe  35.69M
+- |   |   ├──Storm第01天-02.storm和hadoop对别.exe  67.20M
+- |   |   ├──Storm第01天-03.storm优点.exe  13.36M
+- |   |   ├──Storm第01天-04.storm架构介绍-核心组件.exe  115.54M
+- |   |   ├──Storm第01天-05.storm安装.exe  12.23M
+- |   |   ├──Storm第01天-06.storm完全分布式集群部署和配置-webui查看.exe  64.61M
+- |   |   ├──Storm第01天-07.storm编程实现电话呼叫日志处理-本地模式执行.exe  100.70M
+- |   |   ├──Storm第01天-08.storm完全分布式集群运行top作业.exe  46.40M
+- |   |   ├──Storm第01天-09.storm集群logviewer查看器进程-日志目录.exe  38.02M
+- |   |   ├──Storm第01天-10.wordcount的storm实现.exe  116.08M
+- |   |   ├──Storm第01天-11.定义工具类，使用nc结合socket编程实现分布式程序的调试功能.exe  110.46M
+- |   |   ├──Storm第01天-12.调整任务的并发度和任务数-worker数-执行线程数.exe  168.81M
+- |   |   └──Storm第01天.rar  230.27kb
+- |   ├──Storm-第02天  
+- |   |   ├──Storm第02天-01.回顾.avi  33.15M
+- |   |   ├──Storm第02天-02.storm分组策略-shuffle-field-数据倾斜.avi  135.02M
+- |   |   ├──Storm第02天-03.storm分组策略-wordcount-二次聚合-数据倾斜.avi  52.85M
+- |   |   ├──Storm第02天-04.storm分组使用守护线程按时间片定时清分-集合同步问题.avi  79.32M
+- |   |   ├──Storm第02天-05.storm分组-all-direct-global.avi  129.35M
+- |   |   ├──Storm第02天-06.storm分组-none分组.avi  18.61M
+- |   |   ├──Storm第02天-07.storm分组log设置.avi  14.49M
+- |   |   ├──Storm第02天-08.storm分组-自定义分组.avi  30.02M
+- |   |   ├──Storm第02天-09.storm确保消息被消费.avi  44.21M
+- |   |   ├──Storm第02天-10.storm确保消息被消费-使用双队列方式实现.avi  69.15M
+- |   |   ├──Storm第02天-11.storm与kafka集成.avi  51.95M
+- |   |   ├──Storm第02天-12.storm与kafka集成-log4j注意事项.avi  28.80M
+- |   |   ├──Storm第02天-13.storm与hbase集成.avi  40.11M
+- |   |   └──Storm第02天.rar  317.49kb
+- |   └──Storm-第03天  
+- |   |   ├──Storm第03天-01.storm与hbase集成.avi  90.73M
+- |   |   └──Storm第03天.rar  2.81kb
+- ├──11-大数据JavaWeb基础SSM  
+- |   ├──01-SSM  
+- |   |   ├──SSM.rar  100.42kb
+- |   |   ├──SSM笔记.txt  18.88kb
+- |   |   ├──SSM第01天-01.ssm简介.avi  5.74M
+- |   |   ├──SSM第01天-02.ssm-mybatis-项目初始化.avi  15.35M
+- |   |   ├──SSM第01天-03.ssm-mybatis-配置文件和数据库创建-表创建.avi  7.16M
+- |   |   ├──SSM第01天-04.ssm-mybatis-使用API测试是否连通.avi  14.38M
+- |   |   ├──SSM第01天-05.ssm-mybatis-创建mapper文件和javabean.avi  16.09M
+- |   |   ├──SSM第01天-06.ssm-mybatis-实现insert操作.avi  14.60M
+- |   |   ├──SSM第01天-07.ssm-mybatis-实现update操作.avi  11.19M
+- |   |   ├──SSM第01天-08.ssm-mybatis-实现selectOne操作.avi  14.91M
+- |   |   ├──SSM第01天-09.ssm-mybatis-实现selectAll操作.avi  8.00M
+- |   |   ├──SSM第01天-10.ssm-mybatis-复杂关系-准备数据-表结构.avi  14.00M
+- |   |   ├──SSM第01天-11.ssm-mybatis-复杂关系-设计java类.avi  8.64M
+- |   |   ├──SSM第01天-12.ssm-mybatis-复杂关系-orderMapper映射文件.avi  8.55M
+- |   |   ├──SSM第01天-13.ssm-mybatis-复杂关系-修改配置-插入关联数据.avi  14.89M
+- |   |   ├──SSM第01天-14.ssm-mybatis-复杂关系-多对一关联查询.avi  43.09M
+- |   |   ├──SSM第01天-15.ssm-mybatis-复杂关系-多对一映射编写.avi  38.50M
+- |   |   ├──SSM第01天-16.ssm-mybatis-复杂关系-多对一API编程测试.avi  29.49M
+- |   |   ├──SSM第01天-17.ssm-mybatis-项目改造-规范化-Dao-Util.avi  33.07M
+- |   |   ├──SSM第01天-18.ssm-mybatis-项目改造-样板代码-接口回调实现封装.avi  46.84M
+- |   |   └──SSM第01天-19.ssm-mybatis-项目改造-接口回调原理图说明.avi  16.03M
+- |   ├──02-Spring  
+- |   |   ├──Spring.rar  151.82kb
+- |   |   ├──Spring第01天-01.体验Spring.avi  57.04M
+- |   |   ├──Spring第01天-02.spring注解方式-扫描组件-依赖配置.avi  67.21M
+- |   |   ├──Spring第01天-03.spring整合mybatis原理图.avi  8.68M
+- |   |   ├──Spring第01天-04.spring整合mybatis-项目初始化-连接数据源c3p0-测试.avi  44.76M
+- |   |   ├──Spring第01天-05.spring整合mybatis-sf-dao设计实现.avi  61.26M
+- |   |   ├──Spring第01天-06.spring整合mybatis-service接口和实现类设计.avi  48.20M
+- |   |   ├──Spring第01天-07.spring整合mybatis-配置文件-事务通知-aop配置.avi  55.27M
+- |   |   ├──Spring第01天-08.spring整合mybatis-rose图分析.avi  30.99M
+- |   |   ├──Spring第01天-09.spring整合mybatis-调错.avi  140.62M
+- |   |   ├──Spring第01天-10.spring整合mybatis-整合回顾.avi  48.49M
+- |   |   ├──Spring第01天-11.spring整合mybatis-业务增加-item处理.avi  18.69M
+- |   |   ├──Spring第01天-12.spring整合mybatis-业务增加-item处理2.avi  55.12M
+- |   |   └──Spring第01天-13.spring整合mybatis-事务管理原理介绍-现象展示.avi  41.81M
+- |   ├──03-SpringMVC  
+- |   |   ├──SpringMVC第01天-01.web程序简介.avi  34.49M
+- |   |   ├──SpringMVC第01天-02.搭建tomcat服务器.avi  25.15M
+- |   |   ├──SpringMVC第01天-03.tomcat目录结构-端口修改-server.xml.avi  26.96M
+- |   |   ├──SpringMVC第01天-04.在idea下创建web模块-配置tomcat-运行程序.avi  29.75M
+- |   |   ├──SpringMVC第01天-05.在idea下配置tomcat服务器热部署.avi  17.91M
+- |   |   ├──SpringMVC第01天-06.在idea添加maven支持-修改热部署-默认浏览器.avi  8.36M
+- |   |   ├──SpringMVC第01天-07.bs结构程序的工作流程.avi  16.12M
+- |   |   ├──SpringMVC第01天-08.Spring MVC结构.avi  18.89M
+- |   |   ├──SpringMVC第01天-09.引入Springmvc依赖-配置servlet.avi  26.50M
+- |   |   ├──SpringMVC第01天-10.spring注解驱动配置mvc-编写controller.avi  80.87M
+- |   |   ├──SpringMVC第01天-11.IDEA下的weeb模块运行找不到第三方类库的解决办法.avi  7.13M
+- |   |   ├──SpringMVC第01天-12.配置视图解析器-增加jsp页面-增加控制器方法.avi  38.99M
+- |   |   ├──SpringMVC第01天-13.实现注册用户功能.avi  79.13M
+- |   |   ├──SpringMVC第01天-14.获得表单提交数据-HttpServletRequest.avi  15.97M
+- |   |   ├──SpringMVC第01天-15.Controller向jsp传递参数-Model.avi  59.54M
+- |   |   ├──SpringMVC第01天-16.Controller向jsp传递集合数据进行显示.avi  26.04M
+- |   |   ├──SpringMVC第01天-17.springMVC完成CRUD-forward-redirect.avi  157.87M
+- |   |   ├──SpringMVC第01天-18.forward-redirect区别.avi  9.10M
+- |   |   └──SpringMVC第01天.rar  6.23M
+- |   └──04-SSM整合  
+- |   |   ├──SSM整合第01天-01.SSM整合-项目初始化-maven依赖.avi  20.76M
+- |   |   ├──SSM整合第01天-02.SSM整合-整合架构-包结构分析.avi  14.45M
+- |   |   ├──SSM整合第01天-03.SSM整合-基本类库创建-service-dao-domain.avi  19.73M
+- |   |   ├──SSM整合第01天-04.SSM整合-控制器-spring配置文件-分发器配置文件.avi  47.95M
+- |   |   ├──SSM整合第01天-05.SSM整合-实现user查看-web.xml配置监听-beans加载mybatis文件.avi  26.92M
+- |   |   ├──SSM整合第01天-06.SSM整合-SpringMVC静态资源访问.avi  24.48M
+- |   |   ├──SSM整合第01天-07.SSM整合-引入css表.avi  38.78M
+- |   |   ├──SSM整合第01天-08.SSM整合-删除用户.avi  13.29M
+- |   |   ├──SSM整合第01天-09.SSM整合-中文乱码问题.avi  41.90M
+- |   |   ├──SSM整合第01天-10.SSM整合-分页查询.avi  150.80M
+- |   |   ├──SSM整合第01天-11.SSM整合-分页查询2.avi  88.89M
+- |   |   ├──SSM整合第01天-12.SSM整合-jsp页面参数获取.avi  8.10M
+- |   |   ├──SSM整合第01天.rar  215.57kb
+- |   |   ├──SSM整合第02天-01.数据范围-session-application-request.avi  47.90M
+- |   |   ├──SSM整合第02天-02.数据范围-session登录处理-session数据保存.avi  78.93M
+- |   |   └──SSM整合第02天.rar  215.57kb
+- ├──12-大数据Scala基础  
+- |   ├──Scala-01  
+- |   |   ├──Scala-01.rar  43.56M
+- |   |   ├──Scala-day01-01.Scala安装-体验scala语法.avi  37.79M
+- |   |   ├──Scala-day01-02.Scala操作符重载-apply方法.avi  46.41M
+- |   |   ├──Scala-day01-03.Scala C风格printf函数-readLine读行数据.avi  74.23M
+- |   |   ├──Scala-day01-04.Scalawhile循环99表格.avi  15.48M
+- |   |   ├──Scala-day01-05.for训话守卫条件和yield推导式.avi  54.81M
+- |   |   ├──Scala-day01-06.函数-带名函数-默认值-过程.avi  77.26M
+- |   |   ├──Scala-day01-07.数组-变长数组-转换.avi  111.97M
+- |   |   ├──Scala-day01-08.数组常用操作-sum-max-min-排序-mkdString.avi  46.20M
+- |   |   ├──Scala-day01-09.多维数组.avi  21.09M
+- |   |   ├──Scala-day01-10.类型自动转换.avi  25.74M
+- |   |   ├──Scala-day01-11.map-可变immutable-不可变mutable-迭代.avi  56.37M
+- |   |   ├──Scala-day01-12.tuple-zip操作.avi  39.91M
+- |   |   ├──Scala-day01-13.OOP-类-this关键字-var变量-val-get-set-主构造-辅助构造.avi  152.90M
+- |   |   ├──Scala-day01-14.OOP-对象-伴生对象.avi  65.87M
+- |   |   ├──Scala-day01-15.OOP-抽象类-方法覆盖.avi  44.08M
+- |   |   ├──Scala-day01-16.安装idea下的scala插件-创建scala模块-运行程序.avi  24.57M
+- |   |   └──Scala-day01-17.scala包的导入-package object.avi  58.94M
+- |   ├──Scala-02  
+- |   |   ├──Scala-02.rar  71.26kb
+- |   |   ├──Scala-day02-01.扩展-类型检查-转换-类型树.avi  142.81M
+- |   |   ├──Scala-day02-02.文件和正则表达式-爬虫实现网页图片下载.avi  96.82M
+- |   |   ├──Scala-day02-03.爬虫实现原理-正则href解析.avi  29.36M
+- |   |   ├──Scala-day02-04.trait.avi  109.28M
+- |   |   ├──Scala-day02-05.操作符-apply-unapply.avi  65.99M
+- |   |   ├──Scala-day02-06.apply-unapply2.avi  54.80M
+- |   |   ├──Scala-day02-07.高阶函数-匿名函数.avi  54.37M
+- |   |   ├──Scala-day02-08.复杂高阶函数演示.avi  31.72M
+- |   |   ├──Scala-day02-09.高阶函数进化演示.avi  118.38M
+- |   |   ├──Scala-day02-10.柯里化-控制抽象.avi  143.08M
+- |   |   ├──Scala-day02-11.集合操作.avi  104.19M
+- |   |   └──Scala-day02-12.集合操作2.avi  171.41M
+- |   └──Scala-03  
+- |   |   ├──Scala-03.rar  4.93kb
+- |   |   ├──Scala-day03-13.模式匹配.avi  79.29M
+- |   |   ├──Scala-day03-14.样例类-密封样例类.avi  47.35M
+- |   |   ├──Scala-day03-15.偏函数.avi  13.43M
+- |   |   ├──Scala-day03-16.泛型-界定-型变-逆变.avi  76.38M
+- |   |   └──Scala-day03-17.隐式转换-隐式参数值.avi  74.10M
+- ├──13-大数据实时计算Spark-2.1  
+- |   ├──Spark-01  
+- |   |   ├──Spark-01.rar  849.12kb
+- |   |   ├──Spark-day01-01.Spark介绍.exe  69.40M
+- |   |   ├──Spark-day01-02.安装Spark.exe  17.73M
+- |   |   ├──Spark-day01-03.使用Spark实现word count.exe  67.99M
+- |   |   ├──Spark-day01-04.Spark编程实现wordcount.exe  54.45M
+- |   |   ├──Spark-day01-05.Spark java版单词统计.exe  72.74M
+- |   |   ├──Spark-day01-06.Spark程序包找不到问题-配置idea下的全局库-在模块中指定全局库.exe  59.16M
+- |   |   ├──Spark-day01-07.部署spark完全分布式集群.exe  29.59M
+- |   |   └──Spark-day01-08.spark脚本分析-进程管理.exe  79.65M
+- |   ├──Spark-02  
+- |   |   ├──Spark-02.rar  182.41kb
+- |   |   ├──Spark-day02-01.Scala文件的maven编译问题.exe  41.50M
+- |   |   ├──Spark-day02-02.核心API模块介绍.exe  78.87M
+- |   |   ├──Spark-day02-03.RDD弹性分布式数据集.exe  168.54M
+- |   |   ├──Spark-day02-04.RDD并发度-分区-变换.exe  181.86M
+- |   |   ├──Spark-day02-05.RDD变换-wordcount-count-reduce.exe  85.61M
+- |   |   ├──Spark-day02-06.RDD变换-groupByKey-join.exe  113.30M
+- |   |   ├──Spark-day02-07.RDD变换-cogroup.exe  28.46M
+- |   |   ├──Spark-day02-08.RDD变换-笛卡尔积.exe  19.42M
+- |   |   ├──Spark-day02-09.RDD变换-pipe.exe  22.94M
+- |   |   ├──Spark-day02-10.RDD Action-collect-count-countByKey-saveAs-foreach-take.exe  124.38M
+- |   |   ├──Spark-day02-11.RDD数据倾斜处理.exe  47.93M
+- |   |   └──Spark-day02-12.Spark和hadoop HA整合-数据倾斜使用.exe  29.75M
+- |   ├──Spark-03  
+- |   |   ├──day03-01.spark运行代码解析-1.avi  154.68M
+- |   |   ├──day03-02.spark-dag调度器-task调度器-job-taskset-task.avi  207.83M
+- |   |   ├──day03-03.spark-activeJob-taskSchedulerImpl.avi  138.48M
+- |   |   ├──day03-04.spark作业提交-事件loop-调度器处理-监听器总线.avi  166.47M
+- |   |   ├──day03-05.spark作业提交-后台调度器-RpcEndpoint-消息发送-消息接受-最终代码调用.avi  384.51M
+- |   |   └──Spark-03.rar  116.91kb
+- |   ├──Spark-04  
+- |   |   ├──day04-01.spark提交流程回顾.avi  115.09M
+- |   |   ├──day04-02.spark提交流程图形总结-宽窄依赖1.avi  139.29M
+- |   |   ├──day04-03.spark启动模式.avi  90.22M
+- |   |   ├──day04-04.spark持久化-shuffle.avi  223.29M
+- |   |   ├──day04-05.spark持久化-删除数据-丢失数据的恢复.avi  39.86M
+- |   |   ├──day04-06.spark累加器-广播变量.avi  141.57M
+- |   |   ├──day04-07.spark分布式计算PI值.avi  7.07M
+- |   |   ├──day04-08.Spark SQL模块.avi  130.69M
+- |   |   └──Spark-04.rar  6.76M
+- |   ├──Spark-05  
+- |   |   ├──day05-01.SparkSQL操纵json文件-read-write.avi  158.33M
+- |   |   ├──day05-02.SparkSQL使用jdbc操纵Mysql数据库.avi  66.98M
+- |   |   ├──day05-03.SparkSQL交互hive.avi  72.01M
+- |   |   ├──day05-04.SparkSQL交互hive-thriftserver.avi  153.60M
+- |   |   ├──day05-05.SparkSQL分布式SQL查询引擎.avi  53.76M
+- |   |   ├──day05-06.Spark Streaming流计算.avi  96.09M
+- |   |   ├──day05-07.Spark Streaming流计算JavaAPI编程实现-完全分布式提交作业.avi  105.11M
+- |   |   ├──day05-08.Spark Streaming流计算集群上提交演示.avi  14.84M
+- |   |   ├──day05-09.Spark Streaming DStream类考察-Receiver.avi  92.41M
+- |   |   ├──day05-10.Spark Streaming 和Kafka集成.avi  76.16M
+- |   |   ├──day05-11.Spark Streaming RDD-DStream-hadoop分区.avi  65.78M
+- |   |   ├──day05-12.Spark Streaming updateStateByKey状态更新.avi  108.59M
+- |   |   └──Spark-05.rar  469.25kb
+- |   ├──Spark-06  
+- |   |   ├──day06-01.spark  streaming windows化操作.avi  131.37M
+- |   |   ├──day06-02.spark streaming容错处理.avi  75.88M
+- |   |   ├──day06-03.spark streaming容错代码测试-checkpoint-注意事项.avi  65.07M
+- |   |   ├──day06-04.spark机器学习-介绍-分类-聚类-推荐(协同过滤).avi  94.43M
+- |   |   ├──day06-05.spark分类算法.avi  151.53M
+- |   |   ├──day06-06.spark机器学习-逻辑回归测试.avi  42.71M
+- |   |   ├──day06-07.spark机器学习-逻辑回归测试2.avi  182.59M
+- |   |   ├──day06-08.spark机器学习-分类-spamFilter.avi  313.31M
+- |   |   └──Spark-06.rar  152.42kb
+- |   ├──Spark-07  
+- |   |   ├──day07-01.推荐算法.avi  144.30M
+- |   |   ├──day07-02.ALS最小二乘法实现推荐模型.avi  110.17M
+- |   |   ├──day07-03.ALS实现电影推荐.avi  81.20M
+- |   |   ├──day07-04.推荐model应用-商品推荐-用户推荐-topn推荐-all用户推荐.avi  110.50M
+- |   |   ├──day07-05.python体验.avi  18.70M
+- |   |   ├──day07-06.pythonwindows的安装.avi  4.21M
+- |   |   ├──day07-07.python基础-语句块.avi  39.08M
+- |   |   ├──day07-08.python基本数据类型.avi  70.89M
+- |   |   ├──day07-09.python运算符.avi  34.53M
+- |   |   ├──day07-10.python循环.avi  38.80M
+- |   |   ├──day07-11.python String.avi  56.92M
+- |   |   ├──day07-12.python文件访问.avi  136.63M
+- |   |   └──Spark-07.rar  230.68kb
+- |   ├──Spark-08  
+- |   |   ├──day08-01.mysql集成python3.4-注意事项.avi  72.43M
+- |   |   ├──day08-02.mysql大数据量插入-查询-条件查询.avi  36.31M
+- |   |   ├──day08-03.python操纵mysql事务管理-自动提交模式.avi  21.29M
+- |   |   ├──day08-04.python操纵mysql 存储过程和函数.avi  30.26M
+- |   |   ├──day08-05.python操纵多线程-时间函数.avi  77.31M
+- |   |   ├──day08-06.python OOP.avi  114.40M
+- |   |   ├──day08-07.python多线程.avi  50.45M
+- |   |   ├──day08-08.python Socket编程.avi  92.60M
+- |   |   ├──day08-09.python Socket UDP编程.avi  51.45M
+- |   |   ├──day08-10.python 爬虫实现.avi  316.58M
+- |   |   ├──Python学习手册(第4版).pdf.rar  92.38M
+- |   |   └──Spark-08.rar  95.05M
+- |   ├──Spark-09  
+- |   |   ├──day09-01.python协同hbase实现数据写入.avi  66.89M
+- |   |   ├──day09-02.python编写wordcount.avi  32.99M
+- |   |   ├──day09-03.python编译hbase.thrift文件-实现put操作.avi  66.53M
+- |   |   ├──day09-04.python编译错误纠正-测试.avi  9.83M
+- |   |   ├──day09-05.python查询hbase scan-delete.avi  62.52M
+- |   |   ├──day09-06.python爬虫存储页面在hbase中-base64对url编码.avi  163.36M
+- |   |   ├──day09-07.python & spark实现数据分析-图表.avi  181.08M
+- |   |   ├──day09-08.python&spark实现数据分析-直方图-饼图-嵌套子图-条形图.avi  177.92M
+- |   |   ├──Spark-09(1).rar  192.09M
+- |   |   └──Spark-09.rar  192.09M
+- |   ├──Spark-10  
+- |   |   ├──day10-01.商品价格抓取.avi  156.35M
+- |   |   ├──day10-02.Spark闭包处理-local-cluster模式下区别.avi  58.10M
+- |   |   ├──day10-03.SparkApp部署模式-client-cluster区分演示.avi  147.99M
+- |   |   ├──day10-04.Spark yarn集群运行模式.avi  144.93M
+- |   |   ├──day10-05.Spark yarn client模式运行.avi  284.24M
+- |   |   ├──day10-06.Spark yarn cluster模式运行-上传sparkjar到hdfs.avi  258.27M
+- |   |   ├──day10-07.Spark HA模式配置与测试.avi  125.05M
+- |   |   ├──day10-08.Spark hive集成.avi  144.17M
+- |   |   └──Spark-10.rar  27.12kb
+- |   ├──Spark-11  
+- |   |   ├──day11-01.sparkSQL集成hive访问hbase库-类库问题.avi  45.68M
+- |   |   ├──day11-02.sparkSQL idea编程实现spark对hbase数据的统计查询.avi  23.48M
+- |   |   ├──day11-03.sparkSQL同web项目集成.avi  34.56M
+- |   |   ├──day11-04.sparkSQL同web项目集成2.avi  28.88M
+- |   |   ├──day11-05.团购网站的标签生成应用-描述-数据结构.avi  40.59M
+- |   |   ├──day11-06.团购网站的标签生成应用-数据分析过程.avi  53.63M
+- |   |   ├──day11-07.团购网站的标签生成应用-java编程抽取json串中的评论.avi  8.31M
+- |   |   ├──day11-08.团购网站的标签生成应用-scala编程实现标签生成程序.avi  87.60M
+- |   |   ├──day11-09.用户画像概念.avi  15.41M
+- |   |   ├──day11-10.性别-年龄进行画像分析.avi  27.61M
+- |   |   ├──day11-11.性别-年龄进行用户画像MR代码分析与数据解析.avi  151.98M
+- |   |   ├──day11-12.性别-年龄进行用户画像第一阶段实现运行.avi  39.92M
+- |   |   ├──day11-13.性别-年龄进行用户画像算法实现.avi  107.67M
+- |   |   ├──day11-14.性别-年龄进行用户画像总结.avi  19.37M
+- |   |   └──课件资料.zip  94.76M
+- |   └──Spark-12  
+- |   |   ├──day12-01.web同sparkSQL进行thriftserver进行集成.avi  92.09M
+- |   |   ├──day12-02.使用c3p0数据源池化thriftserver连接.avi  40.96M
+- |   |   ├──day12-03.java实现团购网标签生成程序.avi  169.77M
+- |   |   ├──day12-04.python爬虫程序(刘宗分享).avi  148.09M
+- |   |   ├──day12-05.python爬虫程序-反扒手段.avi  44.97M
+- |   |   ├──day13-06.hbase bulk load.avi  174.52M
+- |   |   ├──day14-06.从mysql导出数据到hbase中，使用TableOutputFormat.avi  68.40M
+- |   |   ├──day14-07.导出mysql数据到hbase数据库.avi  21.40M
+- |   |   ├──day14-08.简历指导.avi  121.21M
+- |   |   ├──day14-09.简历指导2.avi  124.22M
+- |   |   └──课件资料.rar  719.93kb
+- ├──14-项目-电信电话项目（企业真实项目）  
+- |   └──14-项目-电!信 电&话#项@目（真实+企业 项-目）.zip  2.83G
+- ├──15-团购网站标签生成（企业真实项目）  
+- |   └──团购网站标签生成（企业真实项目）.zip  186.85M
+- ├──16-用户画像（企业真实项目）  
+- |   ├──用户画像.rar  8.69M
+- |   ├──用户画像第01天-01.用户画像概念.avi  15.41M
+- |   ├──用户画像第01天-02.性别-年龄进行画像分析.avi  27.61M
+- |   ├──用户画像第01天-03.性别-年龄进行用户画像MR代码分析与数据解析.avi  151.98M
+- |   ├──用户画像第01天-04.性别-年龄进行用户画像第一阶段实现运行.avi  39.92M
+- |   ├──用户画像第01天-05.性别-年龄进行用户画像算法实现.avi  107.67M
+- |   └──用户画像第01天-06.性别-年龄进行用户画像总结.avi  19.37M
+- ├──17-项目-友盟网-大数据（真实企业项目）  
+- |   ├──第01部$分.zip  2.15G
+- |   ├──第02部$分.zip  2.42G
+- |   ├──第03部$分.zip  2.87G
+- |   ├──第04部$分.zip  3.98G
+- |   └──第05部$分.zip  3.35G
+- ├──18-项目-大数据电商城-项目（真实企业项目）  
+- |   ├──18-项目-大-数+据-电$商-项目（真实-企业 项目）.z01  3.00G
+- |   ├──18-项目-大-数+据-电$商-项目（真实-企业 项目）.z02  3.00G
+- |   ├──18-项目-大-数+据-电$商-项目（真实-企业 项目）.z03  3.00G
+- |   ├──18-项目-大-数+据-电$商-项目（真实-企业 项目）.zip  1.51G
+- |   └──压缩包使用说明.txt  0.10kb
+- ├──19-项目-独家赠送-友盟网大数据（快学班）  
+- |   ├──01.业务模型介绍 02.架构分析与设计.mp4  150.50M
+- |   ├──03.kafka集群-zk集群-实用脚本.mp4  95.77M
+- |   ├──04.日志收集的web程序-时间对其-属性复制.mp4  81.44M
+- |   ├──05.web程序部署-kafka消息发送-手机端程序编写1.mp4  187.29M
+- |   ├──06.web程序部署-kafka消息发送-手机端程序编写2.mp4  283.78M
+- |   ├──07.web程序部署-kafka消息发送-手机端程序编写3.mp4  146.51M
+- |   ├──08.可视化程序统计服务程序dubbo注册表.avi  128.56M
+- |   ├──09.新增用户数查询实现.avi.avi  60.18M
+- |   ├──10.spark sql实现hive统计.avi  56.55M
+- |   ├──11.spark thriftserver分布式查询引擎.avi  65.16M
+- |   ├──12.spark客户端代码注册hive udf函数1.avi  52.27M
+- |   └──13.spark客户端代码注册hive udf函数2.avi  94.74M
+- ├──20-项目-独家赠送-CSDN电商项目（快学班）  
+- |   ├──第01天  
+- |   |   ├──项目-01.描述和说明.avi  67.27M
+- |   |   ├──项目-02.项目初始化-类描述设计.avi  162.11M
+- |   |   ├──项目-03.service-dao-test-配置.avi  133.46M
+- |   |   ├──项目-04.webmvc-配置-集成.avi  129.55M
+- |   |   └──项目-05.用户crud-登录-数据展现.avi  201.23M
+- |   ├──第02天  
+- |   |   ├──01-静态页处理-代理-反向代理-nginx安装.avi  122.03M
+- |   |   ├──02-nginx ubuntu安装-负载均衡-自定义脚本.avi  259.76M
+- |   |   ├──03-tomcat服务器安装配置端口-自动部署-pom ant集成.avi  126.41M
+- |   |   └──04-动静资源文件-日志配置-ab压力测试.avi  397.32M
+- |   ├──第03天  
+- |   |   ├──项目第03天-01.sed命令-wc-crontab-日志滚动.avi  218.98M
+- |   |   ├──项目第03天-02.配置ubuntu crontab实现日志滚动.avi  145.45M
+- |   |   ├──项目第03天-03.配置flume的spooldir和kafka sink收集log.avi  295.76M
+- |   |   ├──项目第03天-04.使用kafka消费者提取日志消息-解析日期信息.avi  337.85M
+- |   |   └──项目第03天-05.创建hive的分区表-清洗数据分析-分区表查询与存储.avi  383.26M
+- |   ├──第04天  
+- |   |   ├──项目04-01.nginx服务日志滚动-cpu亲和力设置-flume日志头添加.avi  291.70M
+- |   |   ├──项目04-02.kafka消费者守护线程关闭输出流-输出流池化.avi  179.94M
+- |   |   ├──项目04-03.主题test4-消费者-测试-Timer.avi  278.88M
+- |   |   └──项目04-04.hive分区表周期性创建-log格式处理.avi  408.52M
+- |   ├──第05天  
+- |   |   ├──项目视频1.avi  141.07M
+- |   |   └──项目视频2.avi  229.62M
+- |   └──类电商项目描述.txt  1.84kb
+- ├──21-综合大数据就业指导  
+- |   ├──01.web同sparkSQL进行thriftserver进行集成.avi  92.09M
+- |   ├──02.使用c3p0数据源池化thriftserver连接.avi  40.96M
+- |   ├──03.java实现团购网标签生成程序.avi  169.77M
+- |   ├──04.python爬虫程序(刘宗分享).avi  148.09M
+- |   ├──05.python爬虫程序-反扒手段.avi  44.97M
+- |   ├──06.hbase bulk load.avi  174.52M
+- |   ├──07.从mysql导出数据到hbase中，使用TableOutputFormat.avi  68.40M
+- |   ├──08.导出mysql数据到hbase数据库.avi  21.40M
+- |   ├──09.简历指导.avi  121.21M
+- |   ├──10.简历指导2.avi  124.22M
+- |   └──17-综合.rar  56.39kb
+- └──22-软件包  
+- |   ├──软件包.zip  2.40G
+- |   └──相关软件.zip  1.54G
